@@ -8,7 +8,8 @@
 This project is a robust tool designed to allow users to upload one or more PDFs, query their content, and receive precise answers. By leveraging natural language processing (NLP) techniques, it provides an efficient way to interact with and extract meaningful insights from large documents.
 
 ---
-
+![image](https://github.com/user-attachments/assets/dc884ab7-b7fc-43a3-8633-4a23ee90dded)
+---
 ## Features
 
 - **Upload Multiple PDFs**: Add one or more PDF documents to the system.
