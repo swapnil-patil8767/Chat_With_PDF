@@ -1,4 +1,4 @@
-# Chat with PDF Content
+# Chat with PDF  📑
 
 This project is a robust tool designed to allow users to upload one or more PDFs, query their content, and receive precise answers. By leveraging natural language processing (NLP) techniques, it provides an efficient way to interact with and extract meaningful insights from large documents.
 
